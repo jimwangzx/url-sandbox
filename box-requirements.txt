@@ -5,7 +5,7 @@ scapy
 pytesseract
 tinydb
 beautifulsoup4
-requests==2.22.0
+requests==2.31.0
 urllib3==1.25.8
 pyOpenSSL
 requests[socks]
